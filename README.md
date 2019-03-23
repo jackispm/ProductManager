@@ -405,3 +405,5 @@ to-do
 - [ ]  N3 PRD模板
 
 ……
+
+遵从[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)协议
