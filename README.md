@@ -6,8 +6,6 @@
 
 # 目录
 
----
-
 - 关于产品
     - 碎片
     - 产品设计流程
@@ -18,8 +16,6 @@
 - 附件
 
 # 关于产品
-
----
 
 ### 碎片
 
@@ -88,8 +84,6 @@ Symphony
 
 # 原型/设计工具
 
----
-
 惊喜是设计中最重要的体验; 
 
 设计工具一般有轻重之分，重工具有非常好的拓展能力，几乎可以满足你的所有需求，有非常好的高保真能力，你可以用上JavaScript、ES6、TypeScript、React、CSS等知识。轻工具一般有比较清晰的场景，适合敏捷开发。
@@ -116,9 +110,7 @@ Symphony
 
 ### 设计协作类
 
----
-
-- [Wake](https://wake.com/)  （The fastest way for designers to share work with their team）
+- [Wake](https://wake.com/)  
 - [sensive.so](https://sensive.co/)
 - [lanhuapp](https://lanhuapp.com/)
 - [trunk](https://jointrunk.com/)
@@ -128,8 +120,6 @@ Symphony
 
 ### 色彩
 
----
-
 - [Adobe color](https://color.adobe.com/zh/create/color-wheel/)
 - [Sip](https://sipapp.io/)
 - [Colorhunt](https://colorhunt.co)
@@ -138,8 +128,6 @@ Symphony
 - [Colorbox](https://www.colorbox.io/)
 
 # 团队效率工具
-
----
 
 并不是所有的效率工具都能起到帮助，取决于团队结构和规模，协作的核心在于提高耦合，减少沟通损耗。有时候，一页纸比一个重工具更有效。
 
@@ -199,10 +187,10 @@ Symphony
 
 **零代码建站**
 
----
+
 
 - [wix.com](https://www.wix.com)
-- [s](https://www.pagecloud.com)xl.cn
+- [sxl.cn](https://www.pagecloud.com)
 - [webflow](https://webflow.com/)
 
 有非常多类似的，该类产品都是商业产品，不过多推荐。零代码建站适合快速发布概念做用户意愿测试。
