@@ -31,6 +31,7 @@
 
 不太相信有优秀的职业产品经理。
 
+
 ### 产品设计流程
 
 待拓展
@@ -70,6 +71,7 @@
 好的产品一般不会脱胎于规范。
 
 > Innovation is saying no to a thousand things.   - Steve
+> indifference towards people and the reality in which they live is actually the one and only cardinal sin in design - Dieter Rams
 
 ### 产品经理技能结构
 
