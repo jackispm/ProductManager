@@ -4,6 +4,13 @@
 
 > 重要的事是创造，不是别的，创造是一切。 — 毕加索
 
+# 更新
+  时间太快，本来想着过两礼拜补充点东西的，一不小心就过了8个月。
+  我把productmanager resources做成了一个serverless应用
+  https://note.so
+  
+  以后直接在note.so里更新，Thanks♪(･(*￣︶￣)･)ﾉ
+
 # 目录
 
 - 关于产品
