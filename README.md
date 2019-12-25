@@ -9,7 +9,7 @@
   我把productmanager resources做成了一个serverless应用
   https://note.so
   
-  以后直接在note.so里更新，Thanks♪(･(*￣︶￣)･)ﾉ
+  此后的持续更新会发布于note.so，找时间再汇总到github，Thanks♪(･(*￣︶￣)･)ﾉ
 
 # 目录
 
